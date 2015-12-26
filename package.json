@@ -1,0 +1,19 @@
+{
+  "name": "alexa-feeds",
+  "version": "0.0.0",
+  "description": "Alexa Skill",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boneskull/alexa-feeds.git"
+  },
+  "author": "Christopher Hiller <boneskull@boneskull.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boneskull/alexa-feeds/issues"
+  },
+  "homepage": "https://github.com/boneskull/alexa-feeds#readme"
+}
